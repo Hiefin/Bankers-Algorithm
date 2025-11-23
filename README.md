@@ -27,7 +27,7 @@ Next 5 lines: Allocation matrix for 5 processes
 Next 5 lines: Maximum resource matrix for 5 processes
 
 EXAMPLE:
-![Bankers-Algorithm example](BA-Example1.jpg)
+![Bankers-Algorithm example](BA-Example2.png)
 
 then,
 
@@ -36,4 +36,4 @@ g++ banker.cpp -o banker
 ./banker (if on mac)
 
 Should recieve a message like this if a safe state is possible.
-![Bankers-Algorithm example](BA-Example2.jpg)
+![Bankers-Algorithm example](BA-Example1.png)
